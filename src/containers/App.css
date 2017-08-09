@@ -1,0 +1,12 @@
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+.app {
+	margin: 0 auto;
+	width: 650px;
+}
+
+.text-center {
+	text-align: center;
+}
